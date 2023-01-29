@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obscure-micro
 - 👀 I’m interested in software architecture & planning.
-- 🌱 I’m currently learning Hexagonal Architecture.
+- 🌱 I’m currently learning for Data Science.
 - 💞️ I’m looking to collaborate on open source
 - 📫 sazalrahman10@gmail.com
 
